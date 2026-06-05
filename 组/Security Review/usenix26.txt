@@ -1,0 +1,1465 @@
+USENIX Security '26 Cycle 1
+Accepted Papers
+
+USENIX Security '26 has two submission deadlines. Prepublication versions of the accepted
+papers from the first submission deadline are available below.
+
+VIEW MODE: CONDENSED | STANDARD | EXPANDED
+
+Hide details 
+
+Bond: Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in
+Linux-based IoT Firmware
+Jiaqian Peng, Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber
+Security, University of Chinese Academy of Sciences; Puzhuo Liu, Ant Group; Tsinghua University;
+Kai Cheng, Institute of Information Engineering, Chinese Academy of Sciences; Zhaoteng Yan,
+School of Cyber Security, University of Chinese Academy of Sciences; Jie Liu, Institute of Information
+Engineering, Chinese Academy of Sciences; Chengnian Sun, University of Waterloo; Hongsong Zhu,
+Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security,
+University of Chinese Academy of Sciences
+
+AVAILABLE MEDIA
+
+Show details 
+
+Heli: Heavy-Light Private Aggregation
+Ryan Lehmkuhl and Henry Corrigan-Gibbs, MIT; Emma Dauterman, Stanford; David J. Wu,
+University of Texas at Austin
+
+AVAILABLE MEDIA
+
+Show details 
+
+"Your imaging may be stone-cold normal, but if they look sick, they're going to get
+admitted": An Investigation of Clinicians' Perceptions of Impact & Likelihood of Security
+Failures
+Ronald E. Thompson III and Hamza Khalid, Tufts University; Hilary Fisher, Brigham & Women's
+Hospital; Rhea Votipka, Beth Israel Lahey Health; Daniel Votipka, Tufts University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Hop: A Modern Transport and Remote Access Protocol
+Paul Flammarion, Stanford University; George Hosono, Georgia Institute of Technology; Wilson
+Nguyen, Laura Bauman, Daniel Rebelsky, and Gerry Wan, Stanford University; David Adrian,
+Independent; Zakir Durumeric, Stanford University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Interpolation-Based Optimization for Enforcing lp-Norm Metric Differential Privacy in
+Continuous and Fine-Grained Domains
+Chenxi Qiu, University of North Texas
+
+AVAILABLE MEDIA
+
+Show details 
+
+Membership Inference Attacks on Tokenizers of Large Language Models
+Meng Tong, University of Science and Technology of China; Yuntao Du, Purdue University; Kejiang
+Chen and Weiming Zhang, University of Science and Technology of China; Ninghui Li, Purdue
+University
+
+AVAILABLE MEDIA
+
+Show details 
+
+JailbreakScope: Interpreting Jailbreak Mechanism through Representation and Circuit
+Analyses
+Zeqing He, Zhibo Wang, Zhixuan Chu, Huiyu Xu, Wenhui Zhang, Qinglong Wang, and Rui
+Zheng, Zhejiang University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Imitative Membership Inference Attack
+Yuntao Du and Yuetian Chen, Purdue University; Hanshen Xiao, Purdue University & NVIDIA
+Research; Bruno Ribeiro and Ninghui Li, Purdue University
+
+AVAILABLE MEDIA
+
+Show details 
+
+SMASH: Scalable Maliciously Secure Hybrid Multi-party Computation Framework for
+Privacy-Preserving Large Language Models
+Yunlv Lv and Rui Zhang, Institute of Information Engineering, Chinese Academy of Sciences; State
+Key Laboratory of Cyberspace Security Defense; School of Cyber Security, University of Chinese
+Academy of Sciences; Zhiyuan Zhang, Max Planck Institute for Security and Privacy; Ziyi Wan,
+Institute of Information Engineering, Chinese Academy of Sciences; State Key Laboratory of
+Cyberspace Security Defense; School of Cyber Security, University of Chinese Academy of Sciences;
+Lanxue Zhang, Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber
+Security, University of Chinese Academy of Sciences; Minhui Xue, CSIRO's Data61 and Responsible
+AI Research (RAIR) Centre, Adelaide University; Jiangtao Li, East China Normal University; Yanan
+Cao, Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security,
+University of Chinese Academy of Sciences
+
+AVAILABLE MEDIA
+
+Show details 
+
+XGuardian: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in
+First-Person Shooter Games
+Jiayi Zhang, Chenxin Sun, and Chenxiong Qian, The University of Hong Kong
+
+AVAILABLE MEDIA
+
+Show details 
+
+The Prompt Stealing Fallacy: Rethinking Metrics, Attacks, and Defenses
+Zehang Deng, Swinburne University of Technology and CSIRO's Data61; Haoyang Li, The Hong
+Kong Polytechnic University; Wanlun Ma, Swinburne University of Technology; Ruoxi Sun and
+Derui Wang, CSIRO's Data61; Minhui Xue, CSIRO's Data61 and Responsible AI Research (RAIR)
+Centre, Adelaide University; Haibo Hu, The Hong Kong Polytechnic University; Sheng Wen and
+Yang Xiang, Swinburne University of Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+When AIOps Become "AI Oops": Subverting LLM-driven IT Operations via Telemetry
+Manipulation
+Dario Pasquini, RSAC Labs; Evgenios M. Kornaropoulos and Giuseppe Ateniese, George Mason
+University; Omer Akgul, Athanasios Theocharis, and Petros Efstathopoulos, RSAC Labs
+
+AVAILABLE MEDIA
+
+Show details 
+
+A Large-Scale Study of Personalized Phishing using Large Language Models
+Stefan Czybik, BIFOLD & TU Berlin; Anne Josiane Kouam, Inria & TU Berlin; Peter Heubl and Jan
+Magnus Nold, Ruhr-University Bochum; Konrad Rieck, BIFOLD & TU Berlin
+
+AVAILABLE MEDIA
+
+Show details 
+
+Secure Protocol Composition under Dynamic Corruption: Scaling Up Symbolic Analysis for
+Real-World Security Properties
+Cas Cremers, Erik Pallas, and Aleksi Peltonen, CISPA Helmholtz Center for Information Security
+
+AVAILABLE MEDIA
+
+Show details 
+
+Opossum Attack: Application Layer Desynchronization using Opportunistic TLS
+Robert Merget, Technology Innovation Institute; Nurullah Erinola and Marcel Maehren, Ruhr
+University Bochum; Lukas Knittel, Ruhr University Boc hum; Sven Hebrok, Paderborn University;
+Marcus Brinkmann, Ruhr University Bochum; Juraj Somorovsky, Paderborn University; Jörg
+Schwenk, Ruhr University Bochum
+
+AVAILABLE MEDIA
+
+Show details 
+
+Breaking Widely Deployed Perceptual Hash Functions: Black-Box Collisions in Apple
+NeuralHash and Microsoft PhotoDNA
+Diane Leblanc-Albarel and Bart Preneel, KU Leuven
+
+AVAILABLE MEDIA
+
+Show details 
+Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-
+based Password Managers
+Matteo Scarlata, ETH Zurich; Giovanni Torrisi and Matilda Backendal, USI, Lugano; Kenneth G.
+Paterson, ETH Zurich
+
+AVAILABLE MEDIA
+
+Show details 
+
+A Midsummer Meme's Dream: Investigating Market Manipulations in the Meme Coin
+Ecosystem
+Alberto Maria Mongardini, Sapienza University of Rome and Technical University of Denmark;
+Alessandro Mei, Sapienza University of Rome
+
+AVAILABLE MEDIA
+
+Show details 
+
+Distributed Vector Commitments and Their Applications
+Rui Gao and Huaqun Wang, Nanjing University of Posts and Telecommunications, The State Key
+Laboratory of Tibetan Intelligence; Zhiguo Wan, Hangzhou Normal University; Yuncong Hu,
+Shanghai Jiao Tong University
+
+AVAILABLE MEDIA
+
+Show details 
+
+From Mirai to Gorilla: Deep Dive into a Long-Lasting DDoS-for-Hire Botnet
+Maarten Weyns, Dario Ferrero, and Stefan Op de Beek, Delft University of Technology (TU Delft);
+Daniel Wagner, Max Planck Institute for Informatics / DE-CIX; Georgios Smaragdakis and Harm
+Griffioen, Delft University of Technology (TU Delft)
+
+AVAILABLE MEDIA
+
+Show details 
+
+LPG: Raise Your Location Privacy Game in Direct-to-Cell LEO Satellite Networks
+Quan Shi, National University of Singapore; Liying Wang, Peking University; Prosanta Gope, The
+University of Sheffield; Qi Liang and Haowen Wang, Beijing University of Posts and
+Telecommunications; Qirui Liu and Chenren Xu, Peking University; Shangguang Wang and Qing
+Li, Beijing University of Posts and Telecommunications; Biplab Sikdar, National University of
+Singapore
+
+AVAILABLE MEDIA
+
+Show details 
+
+PrivacyShield: Relaying BLE Beacons to Counter Unsolicited Tracking
+Florian Hofhammer, EPFL; Daniele Antonioli, EURECOM; Mathias Payer, EPFL
+
+AVAILABLE MEDIA
+
+Show details 
+
+Assessing LLM Response Quality in the Context of Technology-Facilitated Abuse
+Vijay Prakash, New York University; Majed Almansoori, University of Wisconsin­Madison;
+Donghan Hu, New York University; Rahul Chatterjee, University of Wisconsin­Madison; Danny
+Yuxing Huang, New York University
+
+AVAILABLE MEDIA
+Show details 
+
+Residual-PAC Privacy: Automatic Privacy Control Beyond the Gaussian Barrier
+Tao Zhang and Yevgeniy Vorobeychik, Washington University in St. Louis
+
+AVAILABLE MEDIA
+
+Show details 
+
+HAMLOCK: HArdware-Model LOgically Combined attacK
+Sanskar Amgain, University of Tennessee, Knoxville; Daniel Lobo, Atri Chatterjee, and Swarup
+Bhunia, University of Florida; Fnu Suya, University of Tennessee, Knoxville
+
+AVAILABLE MEDIA
+
+Show details 
+
+Vrity: Verifiable Local Differential Privacy
+James Bell-Clark, Adrià Gascón, Baiyu Li, and Mariana Raykova, Google; Amrita Roy
+Chowdhury, University of Michigan
+
+AVAILABLE MEDIA
+
+Show details 
+
+Missing, Present and Conflicting: A Large Scale Analysis of IoT Update Information in the
+EU Market
+Swaathi Vetrivel, Michel van Eeten, and Carlos H. Gañán, Delft University of Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+VSG-Safe: Spotting NSFW Video through Cross-Frame Evidence
+Yuyang Zhang, Xudong Jiang, Yuxuan Song, and Yuxiang Sun, Wuhan University; Yihao Huang,
+National University of Singapore; Run Wang, Shundi Xiao, and Lina Wang, Wuhan University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining
+Framework
+Wenbo Guo, Nanyang Technological University; Chengwei Liu, Nankai University; Ming Kang,
+Sichuan University; Yiran Zhang and Jiahui Wu, Nanyang Technological University; Zhengzi Xu,
+Imperial Global Singapore; Vinay Sachidananda and Yang Liu, Nanyang Technological University
+
+AVAILABLE MEDIA
+
+Show details 
+
+End-to-End Encrypted Collaborative Documents
+Christian Knabenhans, EPFL; Zayd Maradni, Max Planck Institute for Software Systems; Carmela
+Troncoso, Max Planck Institute for Security and Privacy & EPFL
+
+AVAILABLE MEDIA
+
+Show details 
+
+SophOMR: Improved Oblivious Message Retrieval from SIMD-Aware Homomorphic
+Compression
+Keewoo Lee, Ethereum Foundation; Yongdong Yeo, Seoul National University
+AVAILABLE MEDIA
+
+Show details 
+
+FABS: Fast Attribute-Based Signatures
+Liqun Chen, Long Meng, Yalan Wang, Nada El Kassem, Christopher JP Newton, Yangguang
+Tian, Jodie Knapp, Constantin Ctlin Drgan, and Daniel Gardham, University of Surrey; Mark
+Manulis, Universität der Bundeswehr München
+
+AVAILABLE MEDIA
+
+Show details 
+
+Invariant-Guided Logical Testing of Open RAN Controllers
+Tianchang Yang, Ali Ranjbar, Gang Tan, and Syed Rafiul Hussain, The Pennsylvania State
+University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Analyzing the WebRTC Ecosystem and Breaking Authentication in DTLS-SRTP
+Martin Bach, Technology Innovation Institute; Vukasin Karadzi, TU Darmstadt; Lukas Knittel,
+Ruhr-University Bochum; Robert Merget and Jean Paul Degabriele, Technology Innovation
+Institute
+
+AVAILABLE MEDIA
+
+Show details 
+
+Security and Privacy Analysis of Tile's Location Tracking Protocol
+Akshaya Kumar, Anna Raymaker, and Michael A. Specter, Georgia Institute of Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+VIPER Strike: Defeating Visual Reasoning CAPTCHAs via Structured Vision­Language
+Inference
+Minfeng Qi and Dongyang He, City University of Macau; Qin Wang, CSIRO Data61; Lefeng Zhang,
+City University of Macau
+
+AVAILABLE MEDIA
+
+Show details 
+
+Stayin' Alive: How Global Stolen Data Markets Thrive on Telegram
+Tina Marjanov, University of Cambridge; Taro Tsuchiya, Carnegie Mellon University; Konstantinos
+Ioannidis and Jack Hughes, University of Cambridge; Nicolas Christin, Carnegie Mellon University;
+Alice Hutchings, University of Cambridge
+
+AVAILABLE MEDIA
+
+Show details 
+
+Assumption-Free Fuzzy PSI via Predicate Encryption
+Erik-Oliver Blass, Airbus; Guevara Noubir, Northeastern University
+
+AVAILABLE MEDIA
+
+Show details 
+Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard
+Overhead
+Yizhong Liu, Beihang University and Beijing Advanced Innovation Center for Future Blockchain and
+Privacy Computing; Boyu Zhao, Yuxuan Hu, Haojun Tan, Feiang Ran, Andi Liu, and Zhuocheng
+Pan, Beihang University; Yuan Lu, Institute of Software, Chinese Academy of Sciences; Song Bian,
+Jianwei Liu, and Zhenyu Guan, Beihang University
+
+AVAILABLE MEDIA
+
+Show details 
+
+SoK: PHILTER: Uncovering Security and Functional Gaps in AI-based Phishing Website
+Detection Literature via an LLM-based Reasoning Framework
+Mahbub Alam, Texas A&M University; Muhammad Lutfor Rahman, California State University San
+Marcos; Sonjoy Kumar Paul, Amy W. Hays, Aftab Hussain, Md Imanul Huq, and Nitesh Saxena,
+Texas A&M University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Streaming Function Secret Sharing and Its Applications
+Xiangfu Song, Nanyang Technological University; Jianli Bai, Singapore Management University; Ye
+Dong, National University of Singapore; Yijian Liu, Yu Zhang, and Xianhui Lu, Institute of
+Information Engineering, Chinese Academy of Sciences and School of Cyber Security, University of
+Chinese Academy of Sciences; Tianwei Zhang, Nanyang Technological University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Shred-to-Shine Metamorphosis of (Distributed) Polynomial Commitments
+Weihan Li, School of Cyber Science and Technology, Beihang University; Ant Group; Zongyang
+Zhang, School of Cyber Science and Technology, Beihang University; Sherman S. M. Chow, The
+Chinese University of Hong Kong; Yanpei Guo, National University of Singapore; Boyuan Gao,
+School of Cyber Science and Technology, Beihang University; Xuyang Song, Anoma; Yi Deng, School
+of Cryptology, Xidian University; Jianwei Liu, School of Cyber Science and Technology, Beihang
+University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Unbalanced Fuzzy Private Set Intersection for L_infinity Distance: Achieving Sublinear
+Communication with Large Set Size
+Shengzhe Meng and Xiaodong Wang, Tsinghua University; Xv Zhou, Beihang University; Bei
+Liang, Beijing Institute of Mathematical Sciences and Applications
+
+AVAILABLE MEDIA
+
+Show details 
+
+mmCipher: Batching Post-Quantum Public Key Encryption Made Bandwidth-Optimal
+Hongxiao Wang, The University of Hong Kong; Ron Steinfeld, Monash University; Markku-Juhani
+O. Saarinen, Information Security Laboratory, Tampere University; Muhammed F. Esgin, Monash
+University; Siu-Ming Yiu, The University of Hong Kong
+
+AVAILABLE MEDIA
+Show details 
+
+DNS Cache Poisoning Like it's 2006
+Omer Ben-Simhon and Amit Klein, Hebrew University of Jerusalem
+
+AVAILABLE MEDIA
+
+Show details 
+
+UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX
+Enclaved Execution
+Decheng Chen, South China University of Technology; Zhi Zhang, The University of Western
+Australia; Zhenkai Zhang, Clemson University; Xin Zhang, Shandong University; Yansong Gao,
+Southeast University; Yi Zou, South China University of Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+M-Step: A Single-Stepping Framework for Side-Channel Analysis on TrustZone-M
+Cristiano Rodrigues, Centro ALGORITMI, Universidade do Minho; Marton Bognar, DistriNet, KU
+Leuven; Sandro Pinto, Centro ALGORITMI, Universidade do Minho; Jo Van Bulck, DistriNet, KU
+Leuven
+
+AVAILABLE MEDIA
+
+Show details 
+
+DaLens: Charting DNS Self-Amplification Threats at Large
+Liwen Xu and Zechao Cai, ETH Zurich; Huayi Duan, HKUST(GZ); Adrian Perrig, ETH Zurich
+
+AVAILABLE MEDIA
+
+Show details 
+
+Inconsistent, Incomplete, and Insecure: A Survey of Account Security Interfaces
+Arkaprabha Bhattacharya and Alaa Daffalla, Cornell University; Kevin Lee, Independent
+Researcher; Rosanna Bellini, New York University; Nicola Dell, Cornell Tech; Thomas Ristenpart,
+University of Toronto & Cornell Tech
+
+AVAILABLE MEDIA
+
+Show details 
+
+Hydrangea: Optimistic Two-Round Partial Synchrony with Improved Fault Resilience
+Nibesh Shrestha, Supra Research; Aniket Kate, Supra Research / Purdue University; Kartik Nayak,
+Duke University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks
+in Blockchain Ecosystem
+Mingyuan Huang, Hong Kong University of Science and Technology; Han Liu, College of Cryptology
+and Cyber Science, Nankai University; Shuo Yang, Sun Yat-sen University; Daoyuan Wu, Lingnan
+University; Shuai Wang, Hong Kong University of Science and Technology
+
+AVAILABLE MEDIA
+
+Show details 
+DMGuard: Safeguarding Kernels from Physical-Page Use-After-Free Vulnerabilities
+Juhee Kim, Jaeyoung Chung, Dae R. Jeong, and Byoungyoung Lee, Seoul National University
+Show details 
+
+Garuda and Pari: Faster and Smaller SNARKs via Equifficient Polynomial Commitments
+Michel Dellepere, Independent; Pratyush Mishra and Alireza Shirzad, University of Pennsylvania
+
+AVAILABLE MEDIA
+
+Show details 
+
+Transparent Dictionaries from Polynomial Commitments
+Hossein Hafezi, NYU; Alireza Shirzad, University of Pennsylvania; Benedikt Bünz and Joseph
+Bonneau, NYU
+
+AVAILABLE MEDIA
+
+Show details 
+
+Efficient Threshold ML-DSA
+Sofía Celi, Brave Research; Rafael del Pino and Thomas Espitau, PQShield; Guilhem Niot,
+PQShield and Univ Rennes, CNRS, IRISA; Thomas Prest, PQShield
+
+AVAILABLE MEDIA
+
+Show details 
+
+Nudge: A Private Recommendations Engine
+Alexandra Henzinger, MIT; Emma Dauterman, MIT and Stanford; Henry Corrigan-Gibbs, MIT;
+Dan Boneh, Stanford
+
+AVAILABLE MEDIA
+
+Show details 
+
+On Evaluating the Robustness of Large Vision-Language Models via Untargeted Modality
+Alignment Breaking Adversarial Attack
+Zhichao Li, Hongshan Yang, Zhibo Wang, Huiyu Xu, and Junhong Lai, Zhejiang University;
+Yaopeng Wang, Southeastern University and Zhejiang University; Kui Ren and Chun Chen,
+Zhejiang University
+
+AVAILABLE MEDIA
+
+Show details 
+
+From Easy to Hard++: Promoting Differentially Private Image Synthesis Through Spatial-
+Frequency Curriculum
+Chen GONG and Kecen Li, University of Virginia; Zinan Lin, Microsoft Research; Tianhao Wang,
+University of Virginia
+
+AVAILABLE MEDIA
+
+Show details 
+
+FIRA: Enabling Automatic Forensic Investigation of Unmanned Aerial Vehicles
+Yizhi Huang, Georgia Institute of Technology; David Oygenblik, Georgia Tech; Runze Zhang,
+Mingxuan Yao, Muhammad Ibrahim, Burak Sahin, Haichuan Xu, Saman Zonouz, and Brendan
+Saltaformaggio, Georgia Institute of Technology
+
+AVAILABLE MEDIA
+Show details 
+
+MASLeak: Investigating and Exposing Intellectual Property Leakage Vulnerabilities in Multi-
+Agent Systems
+Liwen Wang, The Hong Kong University of Science and Technology; Wenxuan Wang, Renmin
+University of China; Shuai Wang, Zongjie Li, Zhenlan Ji, and Zongyi LYU, The Hong Kong University
+of Science and Technology; Daoyuan Wu, Lingnan University; Shing-Chi Cheung, The Hong Kong
+University of Science and Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting Scams
+Gilad Gressel and Rahul Pankajakshan, Center for Cybersecurity Systems & Networks, Amrita
+Vishwa Vidyapeetham, Amritapuri; Shir Rozenfeld, Ben Gurion University of the Negev; Ling Li, Ca'
+Foscari University of Venice; Ivan Franceschini, University of Melbourne; Krishnashree Achuthan,
+Center for Cybersecurity Systems & Networks, Amrita Vishwa Vidyapeetham, Amritapuri; Yisroel
+Mirsky, Ben Gurion University of the Negev
+
+AVAILABLE MEDIA
+
+Show details 
+
+United We Defend: Collaborative Membership Inference Defenses in Federated Learning
+Li Bai, Junxu Liu, Sen Zhang, Xinwei Zhang, Qingqing Ye, and Haibo Hu, The Hong Kong
+Polytechnic University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Tracegram: Framing Trace-Level Traffic Analysis with Temporally-Aware Multiple Instance
+Learning
+Jian Qu, Yuchen Zhang, Jialong Zhang, Jianfeng Li, and Xiaobo Ma, School of Computer Science
+and Technology, Xi'an Jiaotong University
+
+AVAILABLE MEDIA
+
+Show details 
+
+"Abuse Risks are Often Inherent to Product Features": Exploring AI Vendors' Bug Bounty
+and Responsible Disclosure Policies
+Yangheran Piao, Jingjie Li, and Daniel W. Woods, University of Edinburgh
+
+AVAILABLE MEDIA
+
+Show details 
+
+PICS: Private Intersection over Committed (and reusable) Sets
+Aarushi Goel, Rutgers University; Peihan Miao and Phuoc Van Long Pham, Brown University;
+Satvinder Singh, Purdue University
+
+AVAILABLE MEDIA
+
+Show details 
+
+MULCOTAINT: Towards Efficient Multi-tag Dynamic Taint Analysis via Hardware/Software
+Co-design
+Bing Qi, University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of
+Sciences; Yi Yang and Xiangkun Jia, University of Chinese Academy of Sciences; Institute of
+Software, Chinese Academy of Sciences; Key Laboratory of System Software (Chinese Academy of
+Sciences); Zhengpin Qian and Huafeng Huang, University of Chinese Academy of Sciences;
+Institute of Software, Chinese Academy of Sciences; Purui Su, University of Chinese Academy of
+Sciences; Institute of Software, Chinese Academy of Sciences; Key Laboratory of System Software
+(Chinese Academy of Sciences)
+
+AVAILABLE MEDIA
+
+Show details 
+
+WAVED: Principled Identification of Off-Path Exploitable Weak Verifications within the
+TCP/IP Protocol Suite
+Yizhou Zhao and Xuewei Feng, Tsinghua University; Min Li, Zhongguancun Laboratory; Ke Xu,
+Tsinghua University
+
+AVAILABLE MEDIA
+
+Show details 
+
+CuSafe: Capturing Memory Corruption on NVIDIA GPUs
+Hongyi Lu, Southern University of Science and Technology and Hong Kong University of Science and
+Technology; Fengwei Zhang, Southern University of Science and Technology; Zhenkai Zhang,
+Clemson University; Shuai Wang, Hong Kong University of Science and Technology; Yanan Guo,
+University of Rochester
+
+AVAILABLE MEDIA
+
+Show details 
+
+Attacks on Approximate Caches in Text-to-Image Diffusion Models
+Desen Sun, Shuncheng Jie, and Sihang Liu, University of Waterloo
+
+AVAILABLE MEDIA
+
+Show details 
+
+Side-Channel Attacks on Open vSwitch
+Daewoo Kim and Sihang Liu, University of Waterloo
+
+AVAILABLE MEDIA
+
+Show details 
+
+A Distortion-minimization Watermarking Framework for Large Language Models: Larger
+Capacity, Stronger Robustness and Higher Quality
+Liming Zhai, Xuezhou Shang, Liyun Zhang, and Po Hu, Central China Normal University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Behind Bars: A Side-Channel Attack on NVIDIA MIG Cache Partitioning Using Memory
+Barriers
+Cheng Gu, University of Rochester; Reese Levine, UC Santa Cruz; Zhenkai Zhang, Clemson
+University; Tyler Sorensen, Microsoft and UC Santa Cruz; Yanan Guo, University of Rochester
+
+AVAILABLE MEDIA
+
+Show details 
+TrojPix: Electromagnetic Covert Channels via Imperceptible Pixel Modulation
+Guoming Zhang, Shandong University and Quan Cheng Laboratory; Huiting Zhang, Zhenwei Lu,
+Heqiang Fu, Xin Gao, Riccardo Spolaor, and Yetong Cao, Shandong University; Yanni Yang and
+Pengfei Hu, Shandong University and Quan Cheng Laboratory
+
+AVAILABLE MEDIA
+
+Show details 
+
+Anonymous Tokens with Designated-Reader Metadata Bit
+Aisha Tu, Wuhan University; Meng Jia, The Hong Kong Polytechnic University; Kun He, Jing Chen,
+and Ruiying Du, Wuhan University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Paper Title Under Embargo
+Author list under embargo.
+Show details 
+
+TIMESLICE-SANDWICH: A GPU Side-Channel Attack Exploiting Time-Sliced Scheduling
+Hodong Kim and Gyeongsup Lim, Korea University; Seunghee Shin, State University of New York
+at Binghamton; Youngjoo Shin and Junbeom Hur, Korea University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Bridging Usability and Performance: A Tensor Compiler for Autovectorizing Homomorphic
+Encryption
+Edward Chen, Fraser Brown, and Wenting Zheng, Carnegie Mellon University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Shadowfax: Hybrid Security and Deniability for AKEMs
+Phillip Gajland, IBM Research Europe ­ Zurich; Vincent Hwang, MPI-SP, Radboud University; Jonas
+Janneck, Ruhr University Bochum
+
+AVAILABLE MEDIA
+
+Show details 
+
+RBOOT: Accelerating Homomorphic Neural Network Inference by Fusing ReLU within
+Bootstrapping
+Zhaomin Yang, Chao Niu, Benqiang Wei, Zhicong Huang, Cheng Hong, and Tao Wei, Ant Group
+
+AVAILABLE MEDIA
+
+Show details 
+
+PANGOLIN: Fuzzing Multilingual IoT Firmware with LLM-Driven Code Analysis
+Zhipeng Jia and Xiaokang Yin, Information Engineering University; Shuitao Gan, Laboratory for
+Advanced Computing and Intelligence Engineering; Chao Zhang, Institute for Network Sciences and
+Cyberspace, Tsinghua University; JCSS, Tsinghua University (INSC) - Science City (Guangzhou) Digital
+Technology Group Co., Ltd.; Hangtian Liu, State Key Laboratory of Mathematical Engineering and
+Advanced Computing; Jiangan Ji, Enzhou Song, and Ruijie Cai, Information Engineering University;
+Jinglei Tan, State Key Laboratory of Mathematical Engineering and Advanced Computing; Shengli
+Liu, Information Engineering University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Patch-Guided Vulnerability Detection: Extracting Java API Security Rules via Attack­
+Defense Cross-Analysis
+Bofei Chen, Shuang Liao, and Lei Zhang, Fudan University; Chibin Zhang and Mathias Payer,
+EPFL; Yuan Zhang, Fudan University
+
+AVAILABLE MEDIA
+
+Show details 
+
+The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web
+Louis Jannett, Ruhr University Bochum; Andreas Mayer and Maximilian Westers, Heilbronn
+University of Applied Sciences; Vladislav Mladenov, Ruhr University Bochum; Christian Mainka,
+University of Wuppertal; Jörg Schwenk, Ruhr University Bochum
+
+AVAILABLE MEDIA
+
+Show details 
+
+StackWarp: Breaking AMD SEV-SNP Integrity via Deterministic Stack-Pointer Manipulation
+through the CPU's Stack Engine
+Ruiyi Zhang, Tristan Hornetz, Daniel Weber, Fabian Thomas, and Michael Schwarz, CISPA
+Helmholtz Center for Information Security
+
+AVAILABLE MEDIA
+
+Show details 
+
+Leveraging Cryptographic Simulator Synthesis for Formally Verifying the FOO E-Voting
+Protocol
+David Baelde, Univ Rennes, CNRS, IRISA; Adrien Koutsos and Justine Sauvage, Inria
+
+AVAILABLE MEDIA
+
+Show details 
+
+The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy
+Again
+Tong Liu and Guozhu Meng, Institute of Information Engineering, Chinese Academy of Sciences;
+School of Cyber Security, University of Chinese Academy of Sciences; Peng Zhou, Shanghai
+University; Zizhuang Deng, School of Cyber Science and Technology, Shandong University; State Key
+Laboratory of Cryptography and Digital Economy Security, Shandong University; Shuaiyin Yao and
+Kai Chen, Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber
+Security, University of Chinese Academy of Sciences
+
+AVAILABLE MEDIA
+
+Show details 
+
+B-Privacy: Defining and Enforcing Privacy in Weighted Voting
+Samuel Breckenridge, Dani Vilardell, and Andrés Fábrega, Cornell Tech, IC3; Amy Zhao, Ava
+Labs, IC3; Patrick McCorry, Arbitrum Foundation; Ari Juels, Cornell Tech, IC3
+
+AVAILABLE MEDIA
+Show details 
+
+InstrSem: Automatically and Generically Inferring Semantics of (Undocumented) CPU
+Instructions
+Lorenz Hetterich, Fabian Thomas, Tristan Hornetz, and Michael Schwarz, CISPA Helmholtz
+Center for Information Security
+
+AVAILABLE MEDIA
+
+Show details 
+
+Paper Title Under Embargo
+Lorenz Hetterich, Tristan Hornetz, Fabian Thomas, and Michael Schwarz, CISPA Helmholtz
+Center for Information Security
+Show details 
+
+Sliding into the Flight Deck's DMs: Practical Message Attacks on CPDLC
+Mehdi Ziazi, ETH Zurich; Khalid Aleem, Independent; Harshad Sathaye, ETH Zurich; Martin
+Strohmeier, Cyber-Defence Campus, armasuisse Science + Technology
+Show details 
+
+You Know Why, but Still Rely: The Impact of Explainable AI on Trust, Task Load, and
+Performance in Cybersecurity Decision-Making
+Neele Roch, Hannah Sievers, Noé Zufferey, and Verena Zimmermann, ETH Zurich
+
+AVAILABLE MEDIA
+
+Show details 
+
+Silicon Heist: (Ransom) Attacks for Cloud FPGAs via Privilege Escalation
+Simon Klix, Felix Hahn, Maik Ender, Nils Albartus, and Christof Paar, Max Planck Institute for
+Security and Privacy (MPI-SP); Russell Tessier, University of Massachusetts
+
+AVAILABLE MEDIA
+
+Show details 
+
+Bridging Bitcoin to Second Layers via BitVM2
+Robin Linus Woll, Stanford University and ZeroSync Association; Lukas Aumayr, University of
+Edinburgh and Common Prefix; Zeta Avarikioti, TU Wien and Common Prefix; Matteo Maffei, TU
+Wien; Andrea Pelosi, University of Pisa, University of Camerino, and TU Wien; Orfeas Stefanos
+Thyfronitis Litos, Imperial College London and Common Prefix; Christos Stefo, TU Wien; David
+Tse, Stanford University and Byzantine Research; Alexei Zamyatin, BOB
+
+AVAILABLE MEDIA
+
+Show details 
+
+"Oh, what people would do with my knife?" Navigating the Dual-Use Dilemma in PoC
+Exploit Development, Disclosure, and Community Dynamics
+Arwa Al Alsadi and Lorenz Kustosch, TU Delft; Lamya Alowain, Independent; Michel Van Eeten
+and Carlos H. Gañán, TU Delft
+
+AVAILABLE MEDIA
+
+Show details 
+
+Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact
+Zhenzhe Shao, Sun Yat-sen University and Zhejiang University; Jiashuo Zhang, Peking University;
+Zihao Li, University of Electronic Science and Technology of China and The Hong Kong Polytechnic
+University; Daoyuan Wu, Lingnan University; Chong Chen and Yiming Shen, Sun Yat-sen
+University; Lingfeng Bao, Zhejiang University and Hangzhou High-Tech Zone (Binjiang) Institute of
+Blockchain and Data Security; Yanlin Wang, Sun Yat-sen University; Jiachi Chen, Zhejiang University
+and Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain and Data Security
+
+AVAILABLE MEDIA
+
+Show details 
+
+DDR-SSE: Duplicated Retrieval of Documents for System-wide Secure Searchable
+Symmetric Encryption
+Zichen Gui, University of Georgia, USA; Simon-Philipp Merz and Kenneth G. Paterson, ETH
+Zürich, Switzerland; Sikhar Patranabis, IBM Research India
+
+AVAILABLE MEDIA
+
+Show details 
+
+Concretely Efficient Blind Signatures Based on VOLE-in-the-Head Proofs and the MAYO
+Trapdoor
+Carsten Baum and Marvin Beckmann, Denmark Technical University; Ward Beullens, IBM,
+Zürich; Shibam Mukherjee, Graz University of Technology and Know Center, Graz; Christian
+Rechberger, Graz University of Technology and TACEO, Graz
+
+AVAILABLE MEDIA
+
+Show details 
+
+Turn Your Face Into An Attack Surface: Screen Attack Using Facial Reflections in Video
+Conferencing
+Yong Huang, Yanzhao Lu, Mingyang Chen, En Zhang, and Jiazi Li, Zhengzhou University;
+Wanqing Tu, Durham University
+
+AVAILABLE MEDIA
+
+Show details 
+
+PROBE+DETECT+MITIGATE (PDM): Enabling Cloud Tenants to Self-Defend against
+Microarchitectural Attacks
+Arash Daneshmand, University of British Columbia Okanagan and Concordia University; Hugo
+Kermabon-Bobinnec, Concordia University; Lingyu Wang, University of British Columbia
+Okanagan and Concordia University; Makan Pourzandi, Ericsson Security Research, Ericsson
+Canada; Suryadipta Majumdar, Concordia University; Yosr Jarraya, Ericsson Security Research,
+Ericsson Canada
+
+AVAILABLE MEDIA
+
+Show details 
+
+ARM MTE Performance in Practice
+Taehyun Noh, University of Texas at Austin; Yingchen Wang, University of California Berkeley; Tal
+Garfinkel, Google; Mahesh Madhav, Ampere Computing; Daniel Moghimi, Google; Mattan Erez
+and Shravan Narayan, University of Texas at Austin
+
+AVAILABLE MEDIA
+
+Show details 
+Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore
+Kelechi G. Kalu, Sofia Okorafor, and Tanmay Singla, Purdue University; Sophie Chen, Carnegie
+Mellon University; Santiago Torres-Arias and James C. Davis, Purdue University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Scribe: Low-memory SNARKs via Read-Write Streaming
+Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, Karan Newatia, and Steve Wang, University
+of Pennsylvania
+
+AVAILABLE MEDIA
+
+Show details 
+
+Identifying Provenance of Generative Text-to-Image Models
+Anna Yoo Jeong Ha, Wenxin Ding, Stanley Wu, Shawn Shan, Haitao Zheng, and Ben Y. Zhao,
+University of Chicago
+
+AVAILABLE MEDIA
+
+Show details 
+
+Semantics Over Syntax: Uncovering Pre-Authentication 5G Baseband Vulnerabilities
+Qiqing Huang and Xingyu Wang, University at Buffalo; Wanda Guo and Guofei Gu, Texas A&M
+University; Hongxin Hu, University at Buffalo
+
+AVAILABLE MEDIA
+
+Show details 
+
+Window-based Membership Inference Attacks Against Fine-tuned Large Language Models
+Yuetian Chen, Yuntao Du, and Kaiyuan Zhang, Purdue University; Ashish Kundu, Cisco Research;
+Charles Fleming, Cisco Systems; Bruno Ribeiro and Ninghui Li, Purdue University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Digital Risks and Coping Practices among Roblox Game Creators
+Qiurong Song, Rie Helene (Lindy) Hernandez, Xinning Gui, and Yubo Kou, The Pennsylvania
+State University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Paper Title Under Embargo
+Author list under embargo.
+Show details 
+
+SoK: Attack and Defense Landscape of Agentic AI Systems
+Juhee Kim, UC Berkeley and Seoul National University; Wenbo Guo, UC Santa Barbara; Dawn
+Song, UC Berkeley
+
+AVAILABLE MEDIA
+
+Show details 
+
+Network-Level Prompt and Trait Leakage in Local Research Agents
+Hyejun Jeong, Mohammadreza Teymoorianfard, Abhinav Kumar, Amir Houmansadr, and
+Eugene Bagdasarian, University of Massachusetts Amherst
+
+AVAILABLE MEDIA
+
+Show details 
+
+NOIR: Privacy-Preserving Generation of Code with Open-Source LLMs
+Khoa Nguyen, New Jersey Institute of Technology; That Khiem Ton, New Jersey Insititute of
+Technology; NhatHai Phan, New Jersey Institute of Technology; Issa Khalil, Hamad Bin Khalifa
+University; Khang Tran and Cristian Borcea, New Jersey Institute of Technology; Ruoming Jin, Kent
+State University; Abdallah Khreishah, New Jersey Institute of Technology; My T. Thai, University of
+Florida
+
+AVAILABLE MEDIA
+
+Show details 
+
+BADControl: Backdoor Attacks Against Control Systems
+Luis Burbano, University of California, Santa Cruz; Hampei Sasahara, Institute of Science Tokyo;
+Ruoyu Song and Z. Berkay Celik, Purdue University; Alvaro A. Cardenas, University of California,
+Santa Cruz
+
+AVAILABLE MEDIA
+
+Show details 
+
+Can we estimate privacy vulnerability of individual records? Towards Mitigating Attribute
+Inference Attacks on ML Models
+Ehsanul Kabir and Najrin Sultana, Pennsylvania State University; Ninghui Li, Purdue University;
+Shagufta Mehnaz, Pennsylvania State University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution
+Chen Chen, Nanyang Technological University; Yuchen Sun and Jiaxin Gao, Wuhan University;
+Xueluan Gong, Nanyang Technological University; Qian Wang, Wuhan University; Ziyao Liu,
+Yongsen Zheng, and Kwok-Yan Lam, Nanyang Technological University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Distributed Synthesis of Differentially Private Tabular Datasets
+Yucheng Fu, University of Virginia; Tianyao Gu and Elaine Shi, Carnegie Mellon University;
+Tianhao Wang, University of Virginia
+
+AVAILABLE MEDIA
+
+Show details 
+
+Trustworthy and Confidential SBOM Exchange
+Eman Abu Ishgair and Chinenye Okafor, Purdue University; Marcela S. Melara, Intel Corporation;
+Santiago Torres-Arias, Purdue University
+
+AVAILABLE MEDIA
+
+Show details 
+Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over
+GPGPU
+Song Bian, Yintai Sun, Zian Zhao, and Haowen Pan, Beihang University; Mingzhe Zhang,
+unaffiliated; Zhenyu Guan, Beihang University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Efficient and High-Accuracy Secure Two-Party Protocols for a Class of Functions with Real-
+number Inputs
+Hao Guo and Zhaoqian Liu, The Chinese University of Hong Kong, Shenzhen; Liqiang Peng,
+Alibaba Group; Shuaishuai Li, Zhongguancun Laboratory, Beijing, China; Ximing Fu, The Chinese
+University of Hong Kong, Shenzhen; Weiran Liu and Lin Qu, Alibaba Group
+
+AVAILABLE MEDIA
+
+Show details 
+
+CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage
+Na Li, School of Cyber Science and Engineering, Nanjing University of Science and Technology,
+China; Yansong Gao, School of Cyber Science and Engineering, Southeast University, China;
+Hongsheng Hu, School of Computer Science, Shanghai Jiao Tong University, China; Boyu Kuang,
+School of Cyber Science and Engineering, Nanjing University of Science and Technology, China;
+Anmin Fu, School of Cyber Science and Engineering, Nanjing University of Science and Technology,
+China; and School of Computer Science and Engineering, Nanjing University of Science and
+Technology, China
+
+AVAILABLE MEDIA
+
+Show details 
+
+TAT: Attesting Trajectory Integrity of Industrial Robotic Arms
+Chengtao Yao, Chengcheng Zhao, Peng Cheng, and Jiming Chen, Zhejiang University
+Show details 
+
+VidLeaks: Membership Inference Attacks Against Text-to-Video Models
+Li Wang and Wenyu Chen, Shandong University; Ning Yu, Eyeline Labs; Zheng Li and Shanqing
+Guo, Shandong University
+
+AVAILABLE MEDIA
+
+Show details 
+
+When Fun Turns Toxic: A First Look at Aggressive Advertising in Mini-games
+Pei Chen, Geng Hong, Yicheng Qin, Huazhe Wang, Mengying Wu, and Min Yang, Fudan
+University; Ziru Zhao, Yuanpeng Zhu, and Tao Su, vivo Mobile Communication Co., Ltd
+
+AVAILABLE MEDIA
+
+Show details 
+
+When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-
+to-Image Generation Systems
+Shiqian Zhao, Nanyang Technological University; Jiayang Liu, Nanyang Technological University;
+and Institute of Science Tokyo, Japan; Yiming Li, Runyi Hu, and Xiaojun Jia, Nanyang Technological
+University; Wenshu Fan, University of Electronic Science and Technology of China; Xiaobao Wu
+and Xinfeng Li, Nanyang Technological University; Jie Zhang, CFAR and IHPC, Agency for Science,
+Technology and Research (A*STAR), Singapore; Wei Dong and Tianwei Zhang, Nanyang
+Technological University; Luu Anh Tuan, Nanyang Technological University and VinUniversity
+
+AVAILABLE MEDIA
+
+Show details 
+
+SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference
+Attacks
+Qinhong Jiang, The Hong Kong Polytechnic University; Yan Long, The Hong Kong University of
+Science and Technology (Guangzhou); Youqian Zhang, The Hong Kong Polytechnic University; Chen
+Yan and Xiaoyu Ji, Zhejiang University; Xiapu Luo, The Hong Kong Polytechnic University; Kevin Fu,
+Northeastern University; Jiannong Cao, The Hong Kong Polytechnical University; Wenyuan Xu,
+Zhejiang University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Fend for Yourself! Backdoor Purification in Federated Graph Learning with an Evolving
+Knowledge Anchor
+Chengcheng Zhu and Yunlong Mao, Nanjing University; Jiale Zhang and Bosen Rao, Yangzhou
+University; Sheng Zhong, Nanjing University
+
+AVAILABLE MEDIA
+
+Show details 
+
+InstantOMR: Oblivious Message Retrieval with Low Latency and Optimal Parallelizability
+Haofei Liang, Shanghai Jiao Tong University; Zeyu Liu, Yale University; Eran Tromer, Boston
+University; Xiang Xie, Primus Labs; Yu Yu, Shanghai Jiao Tong University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Cracks in the Walled Garden: Dissecting the Gray-Market of Unauthorized iOS App
+Distribution via Ad Hoc Sideloading
+Yijing Liu, Yiming Zhang, Baojun Liu, and Haixin Duan, Tsinghua University and BNRist
+
+AVAILABLE MEDIA
+
+Show details 
+
+ZipPIR: High-throughput Single-server PIR without Client-side Storage
+Rasoul Akhavan Mahdavi, Abdulrahman Diaa, and Florian Kerschbaum, University of Waterloo
+
+AVAILABLE MEDIA
+
+Show details 
+
+Provable Secure Steganography Based on Adaptive Dynamic Sampling
+Kaiyi Pang and Minhao Bai, Tsinghua University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Arguzz: Testing zkVMs for Soundness and Completeness Bugs
+Christoph Hochrainer, Technische Universität Wien; Valentin Wüstholz, Diligence Security; Maria
+Christakis, Technische Universität Wien
+AVAILABLE MEDIA
+
+Show details 
+
+kSFS: Repurposing a Microkernel-like Interface for Fast and Secure In-Kernel Linux File
+Systems
+Dinglan Peng and Pedro Fonseca, Purdue University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Sirens' Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs
+Zijian Ling, Huazhong University of Science and Technology and Tsinghua University; Pingyi Hu,
+Xiuyong Gao, and Xiaojing Ma, Huazhong University of Science and Technology; Man Zhou,
+Huazhong University of Science and Technology and Tsinghua University; Jun Feng and Songfeng
+Lu, Huazhong University of Science and Technology; Dongmei Zhang and Bin Benjamin Zhu,
+Microsoft Corporation
+
+AVAILABLE MEDIA
+
+Show details 
+
+Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by
+Resource Abusing in LLM-based Agents
+Jiaqi Luo, Jiarun Dai, Fengyu Liu, Songyang Peng, Youkun Shi, Tong Bu, and Geng Hong, Fudan
+University; Xudong Pan, Fudan University and Shanghai Innovation Institute; Yuan Zhang, Fudan
+University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Overcoming the Retrieval Barrier: Indirect Prompt Injection in the Wild for LLM Systems
+Hongyan Chang, Ergute Bao, Xinjian Luo, and Ting Yu, Mohamed bin Zayed University of Artificial
+Intelligence
+
+AVAILABLE MEDIA
+
+Show details 
+
+Inference Attacks Against Graph Generative Diffusion Models
+Xiuling Wang and Xin Huang, Hong Kong Baptist University; Guibo Luo, Peking University;
+Jianliang Xu, Hong Kong Baptist University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Unlocking the True Potential of Decryption Failure Oracles: A Hybrid Adaptive-LDPC Attack
+on ML-KEM Using Imperfect Oracles
+Qian Guo, Denis Nabokov, and Thomas Johansson, Lund University
+
+AVAILABLE MEDIA
+
+Show details 
+
+vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing
+Qiyang Song, Qihang Zhou, Xiaoqi Jia, and Zhenyu Song, Institute of Information Engineering,
+Chinese Academy of Sciences; and School of Cyber Security, University of Chinese Academy of
+Sciences; Wenbo Jiang, University of Electronic Science and Technology of China; Heqing Huang,
+Independent Researcher; Yong Liu, Qi An Xin Technology Group Inc.; Dan Meng, Institute of
+Information Engineering, Chinese Academy of Sciences; and School of Cyber Security, University of
+Chinese Academy of Sciences
+
+AVAILABLE MEDIA
+
+Show details 
+
+CombiSan: Unifying Software Sanitizers for Comprehensive Fuzzing
+Matteo Marini, Sapienza University of Rome; Floris Gorter, Vrije Universiteit Amsterdam; Daniele
+Cono D'Elia, Sapienza University of Rome; Cristiano Giuffrida, Vrije Universiteit Amsterdam
+
+AVAILABLE MEDIA
+
+Show details 
+
+KernelRCA: Facilitating Root Cause Analysis of Memory Corruptions in Linux Kernel with
+Contextual Causality Chain
+Kangzheng Gu, Yifan Zhang, Yuan Zhang, and Min Yang, Fudan University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Sy-FAR: Symmetry-based Fair Adversarial Robustness
+Haneen Najjar, Eyal Ronen, and Mahmood Sharif, Tel Aviv University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Ajax: Fast Threshold Fully Homomorphic Encryption without Noise Flooding
+Zhenkai Hu, Shanghai Jiao Tong University and State Key Laboratory of Cryptology; Haofei Liang,
+Shanghai Jiao Tong University; Xiao Wang, Northwestern University; Xiang Xie, East China Normal
+University and Primus Labs; Kang Yang, State Key Laboratory of Cryptology; Yu Yu, Shanghai Jiao
+Tong University; Wenhao Zhang, Northwestern University
+
+AVAILABLE MEDIA
+
+Show details 
+
+FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers
+Mathew Duong, Michael Chesser, and Guy Farrelly, University of Adelaide; Surya Nepal, Data61
+CSIRO; Damith C. Ranasinghe, University of Adelaide
+
+AVAILABLE MEDIA
+
+Show details 
+
+Differential Trust: Dynamic Multi-Authority Anonymous Credentials with Epoch-Weighted
+Updates
+Chen Li, Tianjin University; Jianting Ning, Zhejiang Sci-Tech University; Xiulong Liu, Tianjin
+University; Yulin Liu, Wuhan University
+
+AVAILABLE MEDIA
+
+Show details 
+
+From Texts to Rules: Generating Sigma Rules with Large Language Models from Cyber
+Threat Reports
+Yongxin Cai, Guangzhou University; Jing Qiu, Guangzhou University and Pengcheng Laboratory;
+Qingming Li, Zhejiang University; Du Cheng, Tsinghua University; Lei Chen, Hong Kong University
+of Science and Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+Static Detection of TOCTOU Bugs Caused by Kernel Races
+Gui-Dong Han, Jia-Ju Bai, Qiu-Ji Chen, and Jiqiang Lu, Beihang University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Paper Title Under Embargo
+Benedict Schlüter, Christoph Wech, and Shweta Shinde, ETH Zurich
+Show details 
+
+OS-Sanitizer: System-wide Latent Defect Inference in Linux Applications
+Addison Crump, Sahil Sihag, Florian Bauckholt, and Keno Hassler, CISPA Helmholtz Center for
+Information Security; Thorsten Holz, Max Planck Institute for Security and Privacy
+
+AVAILABLE MEDIA
+
+Show details 
+
+SafeFFI: Efficient Sanitization at the Boundary Between Safe and Unsafe Code in Rust and
+Mixed-Language Applications
+Oliver Braunsdorf and Tim Lange, Ludwig-Maximilians-Universität München; Konrad
+Hohentanner and Julian Horsch, Fraunhofer AISEC; Johannes Kinder, Ludwig-Maximilians-
+Universität München
+
+AVAILABLE MEDIA
+
+Show details 
+
+GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs
+Lichao Wu, Sasha Behrouzi, and Mohamadreza Rostami, Technical University of Darmstadt;
+Stjepan Picek, University of Zagreb and Radboud University; Ahmad-Reza Sadeghi, Technical
+University of Darmstadt
+
+AVAILABLE MEDIA
+
+Show details 
+
+Bridges to Self: Silent Web-to-App Tracking on Mobile via Localhost
+Tim Vlummens, COSIC, KU Leuven; Aniketh Girish and Nipuna Weerasekara, IMDEA Networks
+Institute; Frederik Zuiderveen Borgesius and Gunes Acar, Radboud University; Narseo Vallina-
+Rodriguez, IMDEA Networks Institute
+
+AVAILABLE MEDIA
+
+Show details 
+
+WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote
+Crowdsourced Data Injection
+Changjia Zhu, Xiao Han, Parush Gera, Zhuo Lu, Tempestt Neal, and Yao Liu, University of South
+Florida
+AVAILABLE MEDIA
+
+Show details 
+
+When Updates Backfire: A Black-Box Security Analysis of Desktop Software Update
+Mechanisms
+Jie Wan, Pengcheng Xia, and Haoyu Wang, Huazhong University of Science and Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+TopFeaRe: Locating Critical State of Adversarial Resilience for Graphs Regarding Topology-
+Feature Entanglement
+Xinxin Fan, State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy
+of Sciences; and University of Chinese Academy of Sciences; Wenxiong Chen, Dalian University of
+Technology; and State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese
+Academy of Sciences; Quanliang Jing, Institute of Computing Technology; Chi Lin, Dalian University
+of Technology; Shaoye Luo, State Key Laboratory of AI Safety, Institute of Computing Technology,
+Chinese Academy of Sciences; and University of Chinese Academy of Sciences; Wenbo Song, Dalian
+University of Technology; and State Key Laboratory of AI Safety, Institute of Computing Technology,
+Chinese Academy of Sciences; Yunfeng Lu, Beihang University
+
+AVAILABLE MEDIA
+
+Show details 
+
+BatchBoot: Fast Batched Bootstrapping for TFHE scheme and Practical Applications
+Zhihao Li, Ant Digital Technologies, Ant Group; Hongyu Wang, Shanxi University; Yuan Zhao and
+Lichun Li, Ant Digital Technologies, Ant Group; Zhiwei Wang, State Key Laboratory of Cyberspace
+Security Defense, Institute of Information Engineering, CAS; Jiaxing He, Changzheng Wei, and Ying
+Yan, Ant Digital Technologies, Ant Group; Lifeng Guo, Shanxi University
+
+AVAILABLE MEDIA
+
+Show details 
+
+The Adverse Effects of Omitting Records in Differential Privacy: How Sampling and
+Suppression Degrade the Privacy­Utility Tradeoff
+Àlex Miranda-Pascual, Kalrsruhe Institute of Technology and Universitat Politècnica de Catalunya;
+Javier Parra-Arnau, Universitat Politècnica de Catalunya; Thorsten Strufe, Karlsruhe Institute of
+Technology
+
+AVAILABLE MEDIA
+
+Show details 
+
+VeCT: Secure and Efficient Constant-Time Code Rewriting with Vector Extensions
+Qisheng Jiang and Danfeng Zhang, Duke University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Memclave: Secure In-memory Enclave for Untrusted Hosts
+Amit Choudhari, CISPA Helmholtz Center for Information Security; Fabian van Rissenbeck,
+Technische Universität Dortmund; Christian Rossow, CISPA Helmholtz Center for Information
+Security
+AVAILABLE MEDIA
+
+Show details 
+
+Cracking Federated Privacy: Initialization-Resilient Gradient Inversion with Fine-Grained
+Reconstruction
+Kaiming Zhu, Jinsheng Yang, Siyang Guo, Huaqian Qin, Taiyu Wang, Junbo Wang, Yuhong Nan,
+and Zibin Zheng, Sun Yat-sen University, P.R. China
+
+AVAILABLE MEDIA
+
+Show details 
+
+Estimating the Amount of Script-generated Traffic in a Mixture
+Cormac Herley, Microsoft Research
+Show details 
+
+Quorus: Efficient, Scalable Threshold ML-DSA Signatures from MPC
+Alexander Bienstock, Leo de Castro, Daniel Escudero, Antigoni Polychroniadou, and Akira
+Takahashi, J.P. Morgan AlgoCRYPT CoE and J.P. Morgan AI Research
+
+AVAILABLE MEDIA
+
+Show details 
+
+Chameleon Channels: Measuring YouTube Accounts Repurposed for Deception and Profit
+Alejandro Cuevas, Carnegie Mellon University; Manoel Horta Ribeiro, Princeton University;
+Nicolas Christin, Carnegie Mellon University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Khost: KVM-based Near Native MCU Firmware Rehosting
+Chunlin Wang, Yicheng Yang, Yuan Zhang, Haoyu Xiao, Yifan Zhang, and Jiarun Dai, Fudan
+University
+
+AVAILABLE MEDIA
+
+Show details 
+
+Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory
+Zhuoyi Shang, Jiasen Li, and Pengzhen Chen, Institute of Information Engineering, Chinese
+Academy of Sciences; School of Cyber Security, University of Chinese Academy of Sciences; and Key
+Laboratory of Cyberspace Security Defense; Yanwei Liu, Institute of Information Engineering,
+Chinese Academy of Sciences; and Key Laboratory of Cyberspace Security Defense; Xiaoyan Gu,
+Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security,
+University of Chinese Academy of Sciences; and Key Laboratory of Cyberspace Security Defense;
+Weiping Wang, Institute of Information Engineering, Chinese Academy of Sciences
+
+AVAILABLE MEDIA
+
+Show details 
+
+SONIC: Concurrent Oblivious RAM & Data Structures for Low-Latency and High-
+Throughput
+Nihal Talur and Ioannis Demertzis, UC Santa Cruz
+Show details 
+E2E-AKMA: An End-to-End Secure and Privacy-Enhancing AKMA Protocol Against the
+Anchor Function Compromise
+Yueming Li, Institute of Software, Chinese Academy of Sciences; and University of Chinese Academy
+of Sciences; Long Chen, Institute of Software, Chinese Academy of Sciences; and Key Laboratory of
+System Software, Chinese Academy of Sciences; Qianwen Gao, Institute of Software, Chinese
+Academy of Sciences; and University of Chinese Academy of Sciences; Zhenfeng Zhang, Institute of
+Software, Chinese Academy of Sciences; and Key Laboratory of System Software, Chinese Academy
+of Sciences
+
+AVAILABLE MEDIA
+
+Show details 
+
+Adversarial Patch EXterminator: Zero-Shot and Patch-Agnostic Defense Framework
+Against Adversarial Patch Attacks
+Jiayimei Wang, City University of Hong Kong; Tao Ni, King Abdullah University of Science and
+Technology; Guowen Xu, University of Electronic Science and Technology of China; Qingchuan
+Zhao and Cong Wang, City University of Hong Kong
+
+AVAILABLE MEDIA
+
+Show details 
+
+Quantifying Large Language Model Attacks Through the Lens of Model Cognition
+Xiuming Liu, Chaoxiang He, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, and Hanqing Hu,
+Shanghai Jiao Tong University; Bin Benjamin Zhu, Microsoft Corporation; Hongsheng Hu, Shi-
+Feng Sun, Dawu Gu, and Shuo Wang, Shanghai Jiao Tong University
+
+AVAILABLE MEDIA
+
+Show details 
+
+AT T E N D                               CYCLE 1 ACCEPTED PAPERS
+Registration Information
+Registration Discounts
+Grant Opportunities
+Venue, Hotel, and Travel
+
+PARTICIPATE                              SPONSORS  ABOUT
+Call for Papers                                    Symposium Organizers
+Call for Artifacts                                 Past Symposia
+Enigma Track Call for Participation                Conference Policies
+Instructions for Presenters and Authors            Code of Conduct
+                                                   Questions
+Privacy Policy Contact Us
+© USENIX 2026
+EIN 13-3055038
+
